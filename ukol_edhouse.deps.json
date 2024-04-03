@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ukol_edhouse/1.0.0": {
+        "runtime": {
+          "ukol_edhouse.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ukol_edhouse/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
